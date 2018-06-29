@@ -12,4 +12,5 @@
 
    # Примеры:
     #  | searchQuery | searchResultVariable     |
-     # | alfalab     | repositoriesSearchResult |
+     #
+     #| alfalab     | repositoriesSearchResult |
