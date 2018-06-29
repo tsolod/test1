@@ -1,7 +1,7 @@
 <img align="left" width="140" height="140" title="akita"
      src="https://github.com/alfa-laboratory/akita/blob/master/akita.png" />
 
-# Awesome testing with Akita1
+# Awesome testing with Akita
 <br><br>
  
 ## Предварительные настройки
